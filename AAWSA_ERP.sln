@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAWSA_ERP", "AAWSA_ERP.csproj", "{8AD50430-C527-4E17-881A-A1D13DA1CDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD50430-C527-4E17-881A-A1D13DA1CDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD50430-C527-4E17-881A-A1D13DA1CDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD50430-C527-4E17-881A-A1D13DA1CDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD50430-C527-4E17-881A-A1D13DA1CDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A09F686-2868-4ED9-BDF6-0B5E1DBCFD6F}
+	EndGlobalSection
+EndGlobal
